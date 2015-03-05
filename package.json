@@ -1,0 +1,19 @@
+{
+  "name": "fuzzy-typeahead",
+  "version": "1.0.0",
+  "description": "Replacement search engine for Bloodhound in Twitter's typeahead widget",
+  "main": "bootstrap-fuzzy-typeahead.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/popkinj/fuzzy-typeahead.git"
+  },
+  "author": "Jamie Popkin <popkinj@littleearth.ca> (http://littleearth.ca/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popkinj/fuzzy-typeahead/issues"
+  },
+  "homepage": "https://github.com/popkinj/fuzzy-typeahead"
+}
